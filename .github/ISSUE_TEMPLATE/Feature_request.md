@@ -1,17 +1,18 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Feature request/idea 🚀
+about: Suggest a new feature or improvement (this does not mean you have to implement it)
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Summary of the new feature**
 
-**Describe the solution you'd like**
+A clear and concise description of what the problem is that the new feature would solve.
+Try formulating it in user story style (if applicable):
+'As a user I want X so that Y.' with X being the being the action and Y being the value of the action.
+
+**Proposed technical implementation details (optional)**
+
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**What is the latest version of PSScriptAnalyzer at the point of writing**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.

@@ -1,6 +1,6 @@
 ---
 name: Bug report 🐛
-about: [Report errors or unexpected behavior 🤔](https://github.com/PowerShell/PSScriptAnalyzer/issues/new?template=Bug_report.md)
+about: https://github.com/PowerShell/PSScriptAnalyzer/issues/new?template=Bug_report.md
 
 ---
 
